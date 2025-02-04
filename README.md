@@ -29,3 +29,4 @@ If the data does not load as expected, check:
 Database connection settings in Java files.
 Input CSV files for correctness.
 Logs printed by the Java programs for errors.
+(UPLOADING THE ZIP FILE DOWNLOAD THAT AND RUN THAT, OVER HERE JUST UPLOADING THE CODE FILE)
